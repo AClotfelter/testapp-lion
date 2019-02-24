@@ -1,0 +1,22 @@
+{
+  "name": "testapp-lion",
+  "version": "1.0.0",
+  "description": "This is a test app to publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AClotfelter/testapp-lion.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "AClotfelter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AClotfelter/testapp-lion/issues"
+  },
+  "homepage": "https://github.com/AClotfelter/testapp-lion#readme"
+}
